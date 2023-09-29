@@ -25,6 +25,9 @@ public class MathUtilLive {
         
         //MathUtil.getFactorial(-5); nem ngoai le that roi, ai bieu dua ca chon chi
         
+        //Them code sau lan dau tien lam chuyen ay - code len Server 6:13PM 29/9/2023
+        System.out.println("expected: 1! = 1;   actual: " + MathUtil.getFactorial(1));
+        System.out.println("expected: 3! = 6;   actual: " + MathUtil.getFactorial(3));
         
         
         //ki thuat kiem thu phan mem; uoc luong xem gia tri tra ve cua ham la gi
